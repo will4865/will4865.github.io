@@ -1,11 +1,11 @@
 # Site settings
 author: William Newton
-title: 
+title: Blogging Through Data Science
 header-img: img/home-bg.png
 email: will4856@gmail.com
 copyright_name: William Newton
 description: > # this means to ignore newlines until "baseurl:"
-  
+  An English Major's Guide to Changing Careers
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  will4865
